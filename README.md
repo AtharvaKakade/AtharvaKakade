@@ -37,7 +37,7 @@ I am a fitness enthusiast who believes in staying active to maintain energy and 
 ## 📧 **Let's Connect**
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/atharvakakade)
-- 📧 [Email Me](mailto\:your-email@example.com)
+- 📧 [Email Me](mailto\:kakadeatharva5@gmail.comcom)
 - 🌟 Check out my [Projects](https://github.com/atharvakakade)
 
 ---
