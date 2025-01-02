@@ -6,7 +6,7 @@
 
 ## 💻 **About Me**
 
-- 🎓 **Education**: Master of Computer Application (Class of 2025)
+- 🎓 **Education**: Computer Science 
 - 🚀 **Career Goal**: Eager to contribute as a **Java Developer** while continuously learning and growing in the software engineering domain.
 - 💡 **Key Interests**:
   - Web application development
