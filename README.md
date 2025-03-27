@@ -50,7 +50,6 @@ Wanna talk code, brainstorm, or just say hi? I’m game!
 > *"Code’s my compass, and every project’s a new trail. Tag along as I turn crazy dreams into real-deal creations!"*
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvakakade&label=Profile%20views&color=0e75b6&style=flat" alt="atharvakakade" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
