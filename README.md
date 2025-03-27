@@ -51,4 +51,3 @@ Wanna talk code, brainstorm, or just say hi? I’m game!
 
 ---
 
-Here’s a fresh take—playful, simple, and packed with personality! It’s your ticket to standing out in the wild developer jungle.
